@@ -1,2 +1,3 @@
 # AMS-595-Project-1
 A project for AMS 595 using the Monte Carlo algorithm
+This single piece of code will approximate the value of pi by plotting 50 to 1000 points in increments of 50 in a one-by-one square containing a quarter of the unit circle, and then using the ratio of points in the circle to all points and equating it to the area of the quarter circle. It also creates graphs to visualize the values, the differences of these values from the real value of pi, and shows the relation between the time needed for the calculations and the difference in the estimated values of pi and the true value.
